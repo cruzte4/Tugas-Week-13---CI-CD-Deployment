@@ -11,12 +11,13 @@
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
 	</dependency>
 </dependencies>
+	
 
 <distributionManagement>
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
+      <url>https://maven.pkg.github.com/cruztea/Tugas-Week-13---CI-CD-Deployment</url>
     </repository>
   </distributionManagement>
   
